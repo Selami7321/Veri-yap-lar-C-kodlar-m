@@ -1,1 +1,1 @@
-# Veri-yap-lar-C-kodlar-m
+# Veri-yapilari\C kodlarim
